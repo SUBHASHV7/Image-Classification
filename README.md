@@ -15,7 +15,7 @@ Image classification is a key task in computer vision where an input image is ca
 
 ## DESIGN STEPS
 ### STEP 1: Problem Statement
-Define the objective of classifying handwritten digits (0-9) using a Convolutional Neural Network (CNN).
+Define the objective of classifying images into predefined categories using a Convolutional Neural Network.
 
 ### STEP 2:Dataset Collection
 Use the MNIST dataset, which contains 60,000 training images and 10,000 test images of handwritten digits.
